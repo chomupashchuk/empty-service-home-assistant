@@ -12,11 +12,6 @@ none:
 ### Service: archive.file
 `none.none` is a dummy service that does nothing and can accept any number of attributes without any errors.
 
-#### attributes:
-- `file` is used to indicate file path. it is a mandatory attribute.
-- `target` is folder to store the archive in. It is an optional attribute.
-- `name` is the name of the archive (`.zip` to be added automatically). Default name is an UTC time. It is an optional attribute.
-
 #### Example 1
 ```
 service: none.none
