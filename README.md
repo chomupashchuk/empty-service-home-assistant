@@ -1,4 +1,4 @@
-# Empty/dummy service for Home Assistant
+# Empty/Dummy service for Home Assistant
 Empty/Dummy service for Home Assistant. Useful in case of complex automations when in specific case within automation no actual service to be trigered.
 
 
