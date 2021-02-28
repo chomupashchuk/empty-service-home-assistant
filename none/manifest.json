@@ -1,0 +1,9 @@
+{
+  "domain": "none",
+  "name": "EmptyService",
+  "documentation": "https://github.com/chomupashchuk/empty-service-home-assistant",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@chomupashchuk"],
+  "version": "1.0"
+}
